@@ -1,4 +1,4 @@
-# remembrall -> Security URL Gate (Browser Extension)
+# Remembrall -> Security URL Gate (Browser Extension)
 Submission for Hack London 2026
 
 A lightweight security extension that checks a site against a trusted domain list and, when the site is not trusted, shows a Security Check screen with HTTP security header analysis before you continue.
