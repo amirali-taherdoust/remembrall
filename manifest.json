@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "Security URL Gate (UI v0.4.1)",
+  "name": "Remembrall (Security URL Gate)",
   "version": "0.4.2",
   "description": "Trusted/white/black lists + interstitial header checks + in-page trust popup.",
   "background": {
