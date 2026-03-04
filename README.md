@@ -1,7 +1,7 @@
 # Remembrall -> Security URL Gate (Browser Extension)
 Submission for Hack London 2026
 
-A lightweight security extension that checks a site against a trusted domain list and, when the site is not trusted, shows a Security Check screen with HTTP security header analysis before you continue.
+Remembrall is a human-centred security training tool built as a lightweight browser extension. It helps users make safer browsing decisions by checking whether a site is recognised as trusted, and when it is not, showing a Security Check report of recommended HTTP security headers with an overall trust score before the user continues.
 
 What it does
 
